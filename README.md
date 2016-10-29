@@ -9,3 +9,7 @@ To stop Windows from automatically restarting after installing updates if a user
 Download https://github.com/ili101/Disable-Windows-Update-Forced-Restarts/archive/master.zip<br>
 Extract the zip<br>
 Left click DWUFR.ps1 and select "Run with Powershell"<br>
+
+### Fixes are welcome
+Suppose to work on Windows 10 Pro
+Maybe works on Windows Home versions?
