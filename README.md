@@ -11,5 +11,5 @@ Extract the zip<br>
 Left click DWUFR.ps1 and select "Run with Powershell"<br>
 
 ### Fixes are welcome
-Suppose to work on Windows 10 Pro
-Maybe works on Windows Home versions?
+Suppose to work on Windows 10 Pro<br>
+Maybe works on Windows Home versions?<br>
